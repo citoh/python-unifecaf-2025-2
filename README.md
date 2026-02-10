@@ -1,2 +1,3 @@
 # python-unifecaf
-Development with Python
+
+Exercícios e exemplos utilizados em sala de aula para a disciplica de **Development with Python** | **UniFECAF**
